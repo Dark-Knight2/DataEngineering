@@ -12,3 +12,8 @@
 * And also converted the Values to float data type.
 * Also extracted the products without prices & counted the products with and without prices in each Product Type, Category, level 1.
 * Listed out the categories with average price of product.
+
+### How to run the project
+* First install the packages listed in requirements.txt file using 
+                 pip install -r requirements.txt
+* Then run the .ipynb file.
